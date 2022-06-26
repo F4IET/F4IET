@@ -1,6 +1,6 @@
 ## F4IET Github
 
-### Hello all, My id is F4IET but my firts Name is Alain.
+### Hello all, My id is F4IET but my first Name is Alain.
 
 
 * I am a Radio Amateur (ham radio), and RF is my main interest here.
