@@ -1,9 +1,11 @@
 ## F4IET Githb
 
-- Hello all, My id is F4IET but my firts Name is Alain
-- I am and radio amateur (ham radio)
-- 
-- 
+### Hello all, My id is F4IET but my firts Name is Alain.
+
+
+- I am and radio amateur (ham radio) I build all my radio equipments. Even, testings and measerments equipments and devices.
+- I build all my radio equipments. Even, testings and measerments equipments and devices.
+- My Github share codes of course but also hardware designs.
 - 
 
 <!---
