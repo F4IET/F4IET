@@ -1,6 +1,6 @@
 ## F4IET Github
 
-### Hello all, My id is F4IET but my first Name is Alain.
+#### Hello all, My id is F4IET but my first Name is Alain. On some places I am also known as **BlackFlag**
 
 
 * I am a Radio Amateur (ham radio), and RF is my main interest here.
@@ -16,6 +16,7 @@ Feel free to visite my QRZ page and my web site.
 ### Alain F4IET
 
 ![Montagne Sainte Victoire](pic/victoire.jpg)
+Montagne Sainte Victoire, very close from my home...
 
 <!---
 F4IET/F4IET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
