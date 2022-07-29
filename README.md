@@ -6,11 +6,11 @@
 * I am a Radio Amateur (ham radio), and RF is my main interest here.
 * I build all my radio equipments. Even, testings and measurement equipments and devices.
 * My Github share codes of course but also hardware designs.
-* In particular I work on simple and cheap solutions. All not ham's in the world are richs women or men. And I like to demonstrate that a ham radio operator can reach the wold with very few money.
+* In particular I work on simple and cheap solutions. All not ham's in the world are richs women or men. And I like to demonstrate that a ham radio operator can reach the world with very few money.
 
 I live in very Southern of France, in the Provence countryside.
 
-Feel free to visite my QRZ page and my web site.
+Feel free to visit my QRZ page and my web site.
 
 ### Have fun and best 73.
 ### Alain F4IET
