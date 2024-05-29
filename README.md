@@ -12,7 +12,7 @@ In particular I work on simple and cheap solutions. All not ham's in the world a
 
 These days I am working on a new project : A high level Ham station, competition capable, for less than 1000$ and with computer cost included in the package. It is much more tricky because it's using microcontrollers and advance SDR designs. 
 
-That Github account have been setup for store the differents versions of hardware and software of the new project. Today, the repositories are provate but of course they will be switch to Public when the project will be over.
+That Github account have been setup for store the differents versions of hardware and software of the new project. Today, the repositories are private but of course they will be switch to Public when the project will be over.
 
 I live in very Southern of France, in the Provence countryside.
 
